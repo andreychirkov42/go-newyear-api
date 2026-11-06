@@ -1,0 +1,8 @@
+/server
+*.exe
+*.test
+coverage.out
+coverage.txt
+coverage.html
+.idea/
+.vscode/

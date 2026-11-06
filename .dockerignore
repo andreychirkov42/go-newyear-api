@@ -1,0 +1,5 @@
+.git
+.github
+*.exe
+coverage.*
+README.md
